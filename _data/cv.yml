@@ -52,9 +52,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Tenure Track Professor
+      institution: Hefei University of Technology
+      year: 2024-now
+    - title: Honorary Associate Professor
+      institution: University of Nottingham
+      year: 2025-now
     - title: Assistant Professor
       institution: University of Nottingham
-      year: 2023-now
+      year: 2023-2024
 
     - title: Assistant Professor
       institution: University of Trento
