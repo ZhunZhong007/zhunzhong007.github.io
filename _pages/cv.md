@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: zhunzhong_cv_2025.pdf
+cv_pdf: Zhun_Zhong_CV_202605.pdf
 ---
 
